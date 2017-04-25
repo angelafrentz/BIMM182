@@ -1,0 +1,10 @@
+9785	Loxodonta africana	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/905/GCF_000001905.1_Loxafr3.0
+441960	Talaromyces marneffei ATCC 18224	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/985/GCF_000001985.1_JCVI-PMFA1-2.0
+7955	Danio rerio	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/035/GCF_000002035.5_GRCz10
+6500	Aplysia californica	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/075/GCF_000002075.1_AplCal3.0
+7460	Apis mellifera	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/195/GCF_000002195.4_Amel_4.5
+7668	Strongylocentrotus purpuratus	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/235/GCF_000002235.4_Spur_4.2
+10116	Rattus norvegicus	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/265/GCF_000002265.2_Rn_Celera
+9258	Ornithorhynchus anatinus	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/275/GCF_000002275.2_Ornithorhynchus_anatinus_5.0.1
+9615	Canis lupus familiaris	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/285/GCF_000002285.3_CanFam3.1
+13616	Monodelphis domestica	rsync://rsync.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/295/GCF_000002295.2_MonDom5
