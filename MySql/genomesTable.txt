@@ -1,0 +1,2 @@
+1	511145	E_Coli	Escherichia coli str. K-12 substr. MG1655, complete genome	688	Bacteria	NC_000913	08-AUG-2016
+2	1435057	Agrobacterium	Agrobacterium tumefaciens LBA4213 (Ach5) plasmid pTi, complete sequence	1010	Bacteria	NZ_CP007228	15-AUG-2015
