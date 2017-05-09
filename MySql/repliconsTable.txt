@@ -1,0 +1,5 @@
+1	1	E_Coli	4319	chromosome	circular
+1	2	Agrobacterium	2640	chromosome	circular
+2	2	Agrobacterium	1848	chromosome	linear
+3	2	Agrobacterium	537	plasmid	circular
+4	2	Agrobacterium	190	plasmid	circular
