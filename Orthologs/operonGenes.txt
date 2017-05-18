@@ -1,0 +1,348 @@
+accA	208621	209580	forward	1	accA	[LTED|S|Length of transcript experimentally determined]	Strong
+accD	2433012	2433926	reverse	1	accD	[LTED|S|Length of transcript experimentally determined]	Strong
+aceBAK	4215478	4220332	forward	3	aceB,aceA,aceK	[BTEI|W|Boundaries of transcription experimentally identified]; [PM|S|Polar mutation]	Strong
+ackA-pta	2413470	2416891	forward	2	ackA,pta	[LTED|S|Length of transcript experimentally determined]	Strong
+acrEF	3413864	3418137	forward	2	acrE,acrF	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+agrA	3648063	3648146	forward	1	agrA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+agrB	3648294	3648377	forward	1	agrB	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+alaS	2819381	2822011	reverse	1	alaS	[LTED|S|Length of transcript experimentally determined]	Strong
+aldA	1488232	1489671	forward	1	aldA	[LTED|S|Length of transcript experimentally determined]	Strong
+amiA-hemF	2552352	2554124	forward	2	amiA,hemF	[LTED|S|Length of transcript experimentally determined]	Strong
+ansA-pncA	1850860	1852528	forward	2	ansA,pncA	[PM|S|Polar mutation]	Strong
+appCBXA	1037740	1041915	forward	4	appC,appB,appX,appA	[ITCR|W|Inferred through co-regulation],[PM|S|Polar mutation]	Strong
+aqpZ	915352	916047	reverse	1	aqpZ	[LTED|S|Length of transcript experimentally determined]	Strong
+araE-ygeA	2979943	2982182	reverse	2	araE,ygeA	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+arcB	3350689	3353025	reverse	1	arcB	[LTED|S|Length of transcript experimentally determined]	Strong
+arcZ	3350577	3350697	forward	1	arcZ	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+arfA	3438431	3438649	reverse	1	arfA	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+argS	1960062	1961795	forward	1	argS	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+argX-hisR-leuT-proM	3982375	3982811	forward	4	argX,hisR,leuT,proM	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+aroKB-damX-dam-rpe-gph-trpS	3512634	3519064	reverse	7	aroK,aroB,damX,dam,rpe,gph,trpS	[PM|S|Polar mutation]	Strong
+aroL-yaiA-aroM	406405	408105	forward	3	aroL,yaiA,aroM	[LTED|S|Length of transcript experimentally determined]	Strong
+arrS	3657986	3658054	reverse	1	arrS	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+arsRBC	3648528	3650662	forward	3	arsR,arsB,arsC	[IHBCE|W|Inferred by a human based on computational evidence],[LTED|S|Length of transcript experimentally determined]	Strong
+asnC-mioC-mnmG-rsmG	3923057	3927003	reverse	4	asnC,mioC,mnmG,rsmG	[LTED|S|Length of transcript experimentally determined]; [ICWHO|W|Inferred computationally without human oversight]; [ICWHO|W|Inferred computationally without human oversight],[PM|S|Polar mutation]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+asnT	2044549	2044624	forward	1	asnT	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+asnU	2059851	2059926	forward	1	asnU	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+asnV	2062260	2062335	forward	1	asnV	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+asnW	2058027	2058102	reverse	1	asnW	[LTED|S|Length of transcript experimentally determined]	Strong
+aspA-dcuA	4365472	4368327	reverse	2	aspA,dcuA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+atpIBEFHAGDC	3915553	3922440	reverse	9	atpI,atpB,atpE,atpF,atpH,atpA,atpG,atpD,atpC	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+azuC	1987873	1987959	reverse	1	azuC	[LTED|S|Length of transcript experimentally determined]	Strong
+bdm-sra	1555826	1556280	reverse	2	bdm,sra	[BTEI|W|Boundaries of transcription experimentally identified]; [PM|S|Polar mutation]	Strong
+blr	1704551	1704676	forward	1	blr	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+caiF	34300	34695	forward	1	caiF	[LTED|S|Length of transcript experimentally determined]	Strong
+cbl	2059964	2060914	reverse	1	cbl	[LTED|S|Length of transcript experimentally determined]	Strong
+cbrBC	3897506	3898609	forward	2	cbrB,cbrC	[ICWHO|W|Inferred computationally without human oversight]; [LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+cdaR	182463	183620	forward	1	cdaR	[LTED|S|Length of transcript experimentally determined]	Strong
+cdgI	1870385	1871860	forward	1	cdgI	[ICWHO|W|Inferred computationally without human oversight],[PM|S|Polar mutation]	Strong
+cfa	1741413	1742561	forward	1	cfa	[LTED|S|Length of transcript experimentally determined]	Strong
+chiX	507204	507287	forward	1	chiX	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+cho	1823515	1824402	forward	1	cho	[LTED|S|Length of transcript experimentally determined]	Strong
+cirA	2244778	2246769	reverse	1	cirA	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+clpPX-lon	456677	461242	forward	3	clpP,clpX,lon	[LTED|S|Length of transcript experimentally determined]; [ITCR|W|Inferred through co-regulation]; [ICWHO|W|Inferred computationally without human oversight],[IEP|W|Inferred from expression pattern]	Strong
+cmk-rpsA-ihfB	961201	964112	forward	3	cmk,rpsA,ihfB	[PM|S|Polar mutation]; [LTED|S|Length of transcript experimentally determined]	Strong
+cmoM-mukFEB	973537	980786	forward	4	cmoM,mukF,mukE,mukB	[ITCR|W|Inferred through co-regulation],[IEP|W|Inferred from expression pattern],[PM|S|Polar mutation]	Strong
+coaA	4174076	4175026	reverse	1	coaA	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+codBA	354922	357454	forward	2	codB,codA	[ITCR|W|Inferred through co-regulation],[PM|S|Polar mutation]	Strong
+csiD-lhgO-gabDTP	2788985	2795653	forward	5	csiD,lhgO,gabD,gabT,gabP	[ITCR|W|Inferred through co-regulation],[PM|S|Polar mutation]	Strong
+cspA	3720049	3720261	forward	1	cspA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+cspE	657292	657501	forward	1	cspE	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+csrB	2924156	2924524	reverse	1	csrB	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+csrC	4051036	4051280	forward	1	csrC	[LTED|S|Length of transcript experimentally determined]	Strong
+cusCFBA	595600	601857	forward	4	cusC,cusF,cusB,cusA	[LTED|S|Length of transcript experimentally determined]	Strong
+cusRS	593328	595443	reverse	2	cusR,cusS	[LTED|S|Length of transcript experimentally determined]	Strong
+cutA	4365018	4365356	reverse	1	cutA	[PM|S|Polar mutation]	Strong
+cyaR	2167114	2167200	forward	1	cyaR	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+cynTSX	358799	361146	forward	3	cynT,cynS,cynX	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+cysDNC	2873387	2876329	reverse	3	cysD,cysN,cysC	[ITCR|W|Inferred through co-regulation],[BTEI|W|Boundaries of transcription experimentally identified],[IEP|W|Inferred from expression pattern],[PM|S|Polar mutation]	Strong
+dapA-bamC	2597831	2599760	reverse	2	dapA,bamC	[BTEI|W|Boundaries of transcription experimentally identified]; [PM|S|Polar mutation]	Strong
+dctA	3682161	3683447	reverse	1	dctA	[LTED|S|Length of transcript experimentally determined]	Strong
+dcuB-fumB	4345680	4348744	reverse	2	dcuB,fumB	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+degP	180884	182308	forward	1	degP	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+degQS	3380743	3383267	forward	2	degQ,degS	[LTED|S|Length of transcript experimentally determined]; [ICWHO|W|Inferred computationally without human oversight]	Strong
+deoCABD	4617323	4621602	forward	4	deoC,deoA,deoB,deoD	[LTED|S|Length of transcript experimentally determined]; [PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+dgcJ	1872041	1873531	forward	1	dgcJ	[ICWHO|W|Inferred computationally without human oversight],[PM|S|Polar mutation]	Strong
+dgcT	1092876	1094234	forward	1	dgcT	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+dinQ	3647705	3647788	reverse	1	dinQ	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+dnaAN-recF	3880148	3883729	reverse	3	dnaA,dnaN,recF	[PM|S|Polar mutation]	Strong
+dnaK-tpke11-dnaJ	12163	15298	forward	3	dnaK,tpke11,dnaJ	[PM|S|Polar mutation]; [IHBCE|W|Inferred by a human based on computational evidence]	Strong
+dnaX	492092	494023	forward	1	dnaX	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+dosCP	1563334	1567140	reverse	2	dosC,dosP	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+dpiBA	652235	654542	forward	2	dpiB,dpiA	[LTED|S|Length of transcript experimentally determined],[PAGTSBP|W|Products of adjacent genes in the same biological process],[ICWHO|W|Inferred computationally without human oversight]	Strong
+dppABCDF	3701864	3707705	reverse	5	dppA,dppB,dppC,dppD,dppF	[LTED|S|Length of transcript experimentally determined],[PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+dut-slmA	3813932	3815090	forward	2	dut,slmA	[IHBCE|W|Inferred by a human based on computational evidence],[PM|S|Polar mutation]	Strong
+eamA	1620238	1621137	reverse	1	eamA	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+ecnAB	4376317	4376699	forward	2	ecnA,ecnB	[ICWHO|W|Inferred computationally without human oversight]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+edd-eda	1932115	1934604	reverse	2	edd,eda	[LTED|S|Length of transcript experimentally determined]	Strong
+entCEBAH	624885	629713	forward	5	entC,entE,entB,entA,entH	[IC|W|Inferred by curator]; [PM|S|Polar mutation]	Strong
+epd-pgk-fbaA	3070165	3073691	reverse	3	epd,pgk,fbaA	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+fecIR	4516764	4518235	reverse	2	fecI,fecR	[LTED|S|Length of transcript experimentally determined]	Strong
+fimB	4540957	4541559	forward	1	fimB	[LTED|S|Length of transcript experimentally determined]	Strong
+fimE	4542037	4542633	forward	1	fimE	[LTED|S|Length of transcript experimentally determined]	Strong
+fixABCX	42403	45750	forward	4	fixA,fixB,fixC,fixX	[LTED|S|Length of transcript experimentally determined]	Strong
+flhDC	1977266	1978197	reverse	2	flhD,flhC	[LTED|S|Length of transcript experimentally determined]	Strong
+fliAZ-tcyJ	1999585	2001789	reverse	3	fliA,fliZ,tcyJ	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+fliC	2002110	2003606	reverse	1	fliC	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+fnrS	1409129	1409247	forward	1	fnrS	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+focA-pflB	951272	954466	reverse	2	focA,pflB	[LTED|S|Length of transcript experimentally determined]	Strong
+folP-glmM	3322733	3324911	reverse	2	folP,glmM	[ICWHO|W|Inferred computationally without human oversight],[PM|S|Polar mutation]	Strong
+frsA	256527	257771	forward	1	frsA	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+ftnA	1988716	1989213	forward	1	ftnA	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+fucAO	2931865	2933688	reverse	2	fucA,fucO	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+fumAC	1685185	1688377	reverse	2	fumA,fumC	[BTEI|W|Boundaries of transcription experimentally identified]; [ITCR|W|Inferred through co-regulation]; [LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+fxsA	4368664	4369140	forward	1	fxsA	[LTED|S|Length of transcript experimentally determined]	Strong
+gadAXW	3663890	3667580	reverse	3	gadA,gadX,gadW	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+gadY	3664864	3664968	forward	1	gadY	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+galETKM	787797	792055	reverse	4	galE,galT,galK,galM	[LTED|S|Length of transcript experimentally determined]	Strong
+gcvB	2942696	2942900	forward	1	gcvB	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+gdhA	1842371	1843714	forward	1	gdhA	[LTED|S|Length of transcript experimentally determined]	Strong
+ghoST	4352584	4353081	forward	2	ghoS,ghoT	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+glcC	3128272	3129036	forward	1	glcC	[LTED|S|Length of transcript experimentally determined]	Strong
+glmUS	3911839	3915200	reverse	2	glmU,glmS	[LTED|S|Length of transcript experimentally determined],[PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+glmY	2691157	2691340	reverse	1	glmY	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+glmZ	3986432	3986603	forward	1	glmZ	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+glnALG	4053869	4058034	reverse	3	glnA,glnL,glnG	[ITCR|W|Inferred through co-regulation]; [ITCR|W|Inferred through co-regulation],[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+glnS	706093	707757	forward	1	glnS	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+glpABC	2352647	2356711	forward	3	glpA,glpB,glpC	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+glpFKX	4114569	4118090	reverse	3	glpF,glpK,glpX	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+glrR-glnB	2687070	2688803	reverse	2	glrR,glnB	[LTED|S|Length of transcript experimentally determined]; [IHBCE|W|Inferred by a human based on computational evidence]	Strong
+gltA	753185	754468	reverse	1	gltA	[LTED|S|Length of transcript experimentally determined]	Strong
+glyW-cysT-leuZ-3'ETS<sup><i>leuZ</i></sup>	1991748	1992117	reverse	4	glyW,cysT,leuZ,3'ETS<sup><i>leuZ</i></sup>	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+gntP	4549953	4551296	reverse	1	gntP	[LTED|S|Length of transcript experimentally determined]	Strong
+gntT	3546559	3547875	forward	1	gntT	[LTED|S|Length of transcript experimentally determined]	Strong
+grpE	2750115	2750708	reverse	1	grpE	[LTED|S|Length of transcript experimentally determined]	Strong
+guaBA	2630958	2634070	reverse	2	guaB,guaA	[PAGTSBP|W|Products of adjacent genes in the same biological process],[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+hcp-hcr	911182	913814	reverse	2	hcp,hcr	[ITCR|W|Inferred through co-regulation],[PM|S|Polar mutation]	Strong
+hemA-prfA-prmC	1263714	1266927	forward	3	hemA,prfA,prmC	[LTED|S|Length of transcript experimentally determined]	Strong
+hflD-purB	1190616	1192631	reverse	2	hflD,purB	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+hlyE	1229483	1230394	reverse	1	hlyE	[LTED|S|Length of transcript experimentally determined]	Strong
+hokE	607836	607988	forward	1	hokE	[LTED|S|Length of transcript experimentally determined]	Strong
+hslVU	4120416	4122287	reverse	2	hslV,hslU	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+htgA	10830	11315	forward	1	htgA	[LTED|S|Length of transcript experimentally determined]	Strong
+hupA	4200281	4200553	forward	1	hupA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+hupB	461451	461723	forward	1	hupB	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+hybOABCDEFG	3139716	3146261	reverse	8	hybO,hybA,hybB,hybC,hybD,hybE,hybF,hybG	[ITCR|W|Inferred through co-regulation],[IEP|W|Inferred from expression pattern],[PM|S|Polar mutation]	Strong
+ibpAB	3866469	3867422	reverse	2	ibpA,ibpB	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+idnDOTR	4490141	4494406	reverse	4	idnD,idnO,idnT,idnR	[LTED|S|Length of transcript experimentally determined]	Strong
+ilvIH	85630	87848	forward	2	ilvI,ilvH	[LTED|S|Length of transcript experimentally determined]	Strong
+ilvLXG_1G_2MEDA	3950322	3956875	forward	8	ilvL,ilvX,ilvG_1,ilvG_2,ilvM,ilvE,ilvD,ilvA	[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+insK	3721154	3722049	forward	1	insK	[LTED|S|Length of transcript experimentally determined]	Strong
+iraD	4556993	4557385	forward	1	iraD	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+iscRSUA	2659563	2662131	reverse	4	iscR,iscS,iscU,iscA	[ITCR|W|Inferred through co-regulation],[IEP|W|Inferred from expression pattern],[PM|S|Polar mutation]	Strong
+ispG-sroE	2640595	2641804	reverse	2	ispG,sroE	[LTED|S|Length of transcript experimentally determined]	Strong
+istR-1	3853118	3853192	reverse	1	istR-1	[LTED|S|Length of transcript experimentally determined]	Strong
+istR-2	3853118	3853257	reverse	1	istR-2	[LTED|S|Length of transcript experimentally determined]	Strong
+kdpFABC	724407	728821	reverse	4	kdpF,kdpA,kdpB,kdpC	[ITCR|W|Inferred through co-regulation],[PAGTSBP|W|Products of adjacent genes in the same biological process],[PM|S|Polar mutation]	Strong
+lacZYA	361249	366305	reverse	3	lacZ,lacY,lacA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]; [PAGTSBP|W|Products of adjacent genes in the same biological process],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+ldcC	209679	211820	forward	1	ldcC	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+ldrD	3699980	3700087	reverse	1	ldrD	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+leuQPV	4606079	4606401	reverse	3	leuQ,leuP,leuV	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+lexA-dinF	4257115	4259121	forward	2	lexA,dinF	[PM|S|Polar mutation]	Strong
+lgt-thyA	2964361	2966037	reverse	2	lgt,thyA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+livKHMGF	3592724	3597560	reverse	5	livK,livH,livM,livG,livF	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+lptD-surA-pdxA-rsmA-apaGH	50380	57109	reverse	6	lptD,surA,pdxA,rsmA,apaG,apaH	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+lpxL	1115662	1116582	reverse	1	lpxL	[LTED|S|Length of transcript experimentally determined]	Strong
+luxS	2814218	2814733	reverse	1	luxS	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+malEFG	4242626	4246419	reverse	3	malE,malF,malG	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+malXY	1699355	1702129	forward	2	malX,malY	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+manA	1688576	1689751	forward	1	manA	[IHBCE|W|Inferred by a human based on computational evidence],[LTED|S|Length of transcript experimentally determined]	Strong
+map-glnD-dapD	185123	189506	reverse	3	map,glnD,dapD	[LTED|S|Length of transcript experimentally determined]; [ICWHO|W|Inferred computationally without human oversight]	Strong
+marC	1618243	1618908	reverse	1	marC	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+marRAB	1619120	1620207	forward	3	marR,marA,marB	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[BTEI|W|Boundaries of transcription experimentally identified],[IEP|W|Inferred from expression pattern]	Strong
+mcaS	1405659	1405751	reverse	1	mcaS	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+mcrBC	4576912	4579337	reverse	2	mcrB,mcrC	[PM|S|Polar mutation]	Strong
+mdfA	883673	884905	forward	1	mdfA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+mdtABCD-baeSR	2154016	2164998	forward	6	mdtA,mdtB,mdtC,mdtD,baeS,baeR	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+menA-rraA	4118845	4120349	reverse	2	menA,rraA	[IC|W|Inferred by curator]; [LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+metA	4214280	4215209	forward	1	metA	[LTED|S|Length of transcript experimentally determined]	Strong
+metBL	4128672	4132267	forward	2	metB,metL	[PM|S|Polar mutation]	Strong
+metH	4223828	4227511	forward	1	metH	[LTED|S|Length of transcript experimentally determined]	Strong
+metT-leuW-glnUW-metU-glnVX	696430	697133	reverse	7	metT,leuW,glnU,glnW,metU,glnV,glnX	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+metZWV	2947387	2947683	forward	3	metZ,metW,metV	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+mgrR	1622817	1622914	reverse	1	mgrR	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+micA	2814802	2814873	forward	1	micA	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+micC	1437121	1437229	forward	1	micC	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+micF	2313084	2313176	forward	1	micF	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+mntP	1905688	1906254	forward	1	mntP	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+molR_1	2196474	2197298	forward	1	molR_1	[LTED|S|Length of transcript experimentally determined]	Strong
+mprA-emrAB	2810770	2814154	forward	3	mprA,emrA,emrB	[PM|S|Polar mutation]	Strong
+mqsRA	3167851	3168544	reverse	2	mqsR,mqsA	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+mraZ-rsmH-ftsLI-murEF-mraY-murD-ftsW-murGC-ddlB-ftsQAZ-lpxC	89634	107474	forward	16	mraZ,rsmH,ftsL,ftsI,murE,murF,mraY,murD,ftsW,murG,murC,ddlB,ftsQ,ftsA,ftsZ,lpxC	[PAGTSBP|W|Products of adjacent genes in the same biological process]; [IEP|W|Inferred from expression pattern]; [ICWHO|W|Inferred computationally without human oversight]; [ITCR|W|Inferred through co-regulation]; [PAGTSBP|W|Products of adjacent genes in the same biological process],[PM|S|Polar mutation]	Strong
+mreBCD	3398387	3401087	reverse	3	mreB,mreC,mreD	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]; [PAGTSBP|W|Products of adjacent genes in the same biological process]; [LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+mscL	3438024	3438434	forward	1	mscL	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+msrA	4441538	4442176	reverse	1	msrA	[LTED|S|Length of transcript experimentally determined]	Strong
+mtlADR	3772281	3776159	forward	3	mtlA,mtlD,mtlR	[LTED|S|Length of transcript experimentally determined]	Strong
+mutY-yggX-mltC-nupG	3103013	3106970	forward	4	mutY,yggX,mltC,nupG	[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+nac	2061016	2061933	reverse	1	nac	[LTED|S|Length of transcript experimentally determined]	Strong
+nadE	1822458	1823285	forward	1	nadE	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+nagE	703944	705890	forward	1	nagE	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+nanATEK-yhcH	3369014	3373576	reverse	5	nanA,nanT,nanE,nanK,yhcH	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]	Strong
+nemRA-gloA	1726023	1728244	forward	3	nemR,nemA,gloA	[IHBCE|W|Inferred by a human based on computational evidence]; [LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+nhaAR	17489	19620	forward	2	nhaA,nhaR	[IHBCE|W|Inferred by a human based on computational evidence]; [LTED|S|Length of transcript experimentally determined],[PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+nikABCDER	3613667	3618989	forward	6	nikA,nikB,nikC,nikD,nikE,nikR	[ITCR|W|Inferred through co-regulation],[IEP|W|Inferred from expression pattern],[PM|S|Polar mutation]; [ITCR|W|Inferred through co-regulation],[PM|S|Polar mutation]	Strong
+nmpC	575758	576825	reverse	1	nmpC	[LTED|S|Length of transcript experimentally determined]	Strong
+norVW	2832476	2835045	forward	2	norV,norW	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[IEP|W|Inferred from expression pattern]	Strong
+nrdHIEF	2800723	2804461	forward	4	nrdH,nrdI,nrdE,nrdF	[LTED|S|Length of transcript experimentally determined]	Strong
+nrdR-ribDE-nusB-thiL-pgpA	433002	437107	forward	6	nrdR,ribD,ribE,nusB,thiL,pgpA	[ITCR|W|Inferred through co-regulation]; [PAGTSBP|W|Products of adjacent genes in the same biological process],[ICWHO|W|Inferred computationally without human oversight],[PM|S|Polar mutation]	Strong
+nsrR-rnr-rlmB-yjfIJ	4406190	4411251	forward	5	nsrR,rnr,rlmB,yjfI,yjfJ	[ICWHO|W|Inferred computationally without human oversight]; [LTED|S|Length of transcript experimentally determined]	Strong
+ohsC	2700520	2700596	forward	1	ohsC	[LTED|S|Length of transcript experimentally determined]	Strong
+ompA	1019013	1020053	reverse	1	ompA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+ompC	2311646	2312749	reverse	1	ompC	[LTED|S|Length of transcript experimentally determined]	Strong
+ompX	850450	850965	forward	1	ompX	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+omrA	2976102	2976189	reverse	1	omrA	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+omrB	2976304	2976385	reverse	1	omrB	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+opgGH	1109335	1113406	forward	2	opgG,opgH	[ITCR|W|Inferred through co-regulation],[PM|S|Polar mutation]	Strong
+otsBA	1980188	1982387	reverse	2	otsB,otsA	[PM|S|Polar mutation]	Strong
+paaABCDEFGHIJK	1453927	1463438	forward	11	paaA,paaB,paaC,paaD,paaE,paaF,paaG,paaH,paaI,paaJ,paaK	[ITCR|W|Inferred through co-regulation],[BTEI|W|Boundaries of transcription experimentally identified],[IEP|W|Inferred from expression pattern],[PM|S|Polar mutation]	Strong
+paaXY	1463539	1465061	forward	2	paaX,paaY	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+panBC	147944	149601	reverse	2	panB,panC	[LTED|S|Length of transcript experimentally determined]	Strong
+pdhR-aceEF-lpd	122092	129336	forward	4	pdhR,aceE,aceF,lpd	[LTED|S|Length of transcript experimentally determined]	Strong
+pdxB-usg-truA-dedA	2434082	2437851	reverse	4	pdxB,usg,truA,dedA	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+pepD	254259	255716	reverse	1	pepD	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+pfkB	1806370	1807299	forward	1	pfkB	[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined]	Strong
+pflA	950340	951080	reverse	1	pflA	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+pheLA	2737599	2738905	forward	2	pheL,pheA	[LTED|S|Length of transcript experimentally determined]	Strong
+pheU	4362551	4362626	reverse	1	pheU	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+pheV	3110366	3110441	forward	1	pheV	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+potFGHI	893784	897929	forward	4	potF,potG,potH,potI	[LTED|S|Length of transcript experimentally determined]	Strong
+ppk-ppx	2623044	2626656	forward	2	ppk,ppx	[ITCR|W|Inferred through co-regulation]; [PM|S|Polar mutation]	Strong
+prlF-yhaV	3277002	3277801	forward	2	prlF,yhaV	[ITCR|W|Inferred through co-regulation],[PAGTSBP|W|Products of adjacent genes in the same biological process],[ICWHO|W|Inferred computationally without human oversight],[PM|S|Polar mutation]	Strong
+proVWX	2804815	2808124	forward	3	proV,proW,proX	[PM|S|Polar mutation]	Strong
+psrO	3311225	3311398	forward	1	psrO	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+pth-ychF	1256721	1258513	reverse	2	pth,ychF	[LTED|S|Length of transcript experimentally determined]	Strong
+ptsHI-crr	2533764	2536343	forward	3	ptsH,ptsI,crr	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+purA	4404687	4405985	forward	1	purA	[LTED|S|Length of transcript experimentally determined]	Strong
+puuDRCBE	1361120	1366815	forward	5	puuD,puuR,puuC,puuB,puuE	[ITCR|W|Inferred through co-regulation],[ICWHO|W|Inferred computationally without human oversight]; [LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+ralA	1413556	1413734	forward	1	ralA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+rcnAB	2185917	2187298	forward	2	rcnA,rcnB	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+rcsA	2023968	2024591	forward	1	rcsA	[LTED|S|Length of transcript experimentally determined]	Strong
+rcsDB	2313488	2316827	forward	2	rcsD,rcsB	[LTED|S|Length of transcript experimentally determined]; [IHBCE|W|Inferred by a human based on computational evidence],[LTED|S|Length of transcript experimentally determined],[PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+rdlD	3700136	3700199	forward	1	rdlD	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+rdoA-dsbA	4042415	4044044	forward	2	rdoA,dsbA	[BTEI|W|Boundaries of transcription experimentally identified]; [BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+recAX	2822139	2823769	reverse	2	recA,recX	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+relA-mazEFG	2909894	2913651	reverse	4	relA,mazE,mazF,mazG	[ITCR|W|Inferred through co-regulation],[IEP|W|Inferred from expression pattern]; [LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+rhaT	4099491	4100525	reverse	1	rhaT	[LTED|S|Length of transcript experimentally determined]	Strong
+rhoL-rho	3966231	3967676	forward	2	rhoL,rho	[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+rlmE-ftsH	3325001	3327664	reverse	2	rlmE,ftsH	[LTED|S|Length of transcript experimentally determined]	Strong
+rlmL-uup	1007844	1011871	forward	2	rlmL,uup	[PM|S|Polar mutation]	Strong
+rnb	1346978	1348912	reverse	1	rnb	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+rph-pyrE	3815127	3816549	reverse	2	rph,pyrE	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+rplKAJL-rpoBC	4178447	4189573	forward	6	rplK,rplA,rplJ,rplL,rpoB,rpoC	[PM|S|Polar mutation]; [BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined]	Strong
+rprA	1770372	1770476	forward	1	rprA	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+rpsLG-fusA-tufA	3470145	3474552	reverse	4	rpsL,rpsG,fusA,tufA	[IC|W|Inferred by curator]; [LTED|S|Length of transcript experimentally determined]	Strong
+rpsP-rimM-trmD-rplS	2744183	2746185	reverse	4	rpsP,rimM,trmD,rplS	[LTED|S|Length of transcript experimentally determined]	Strong
+rpsT	20815	21078	reverse	1	rpsT	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+rpsU-dnaG-rpoD	3210781	3214888	forward	3	rpsU,dnaG,rpoD	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+rraB	4478473	4478889	forward	1	rraB	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+rseX	2033649	2033739	forward	1	rseX	[IHBCE|W|Inferred by a human based on computational evidence],[LTED|S|Length of transcript experimentally determined]	Strong
+rspAB	1652896	1655141	reverse	2	rspA,rspB	[ICWHO|W|Inferred computationally without human oversight],[PM|S|Polar mutation]	Strong
+rssAB	1289245	1291255	forward	2	rssA,rssB	[BTEI|W|Boundaries of transcription experimentally identified]; [PM|S|Polar mutation]	Strong
+rtcBA	3555833	3558079	reverse	2	rtcB,rtcA	[PM|S|Polar mutation]	Strong
+rutR	1074242	1074880	forward	1	rutR	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+rybA-mntS	852725	853064	reverse	2	rybA,mntS	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+rybB	887977	888057	reverse	1	rybB	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+ryeA	1923066	1923314	forward	1	ryeA	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+ryfD	2734153	2734295	reverse	1	ryfD	[LTED|S|Length of transcript experimentally determined]	Strong
+ryhB	3580927	3581016	reverse	1	ryhB	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+ryjA	4277927	4278066	reverse	1	ryjA	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+ryjB	4527977	4528066	forward	1	ryjB	[LTED|S|Length of transcript experimentally determined]	Strong
+sdhCDAB-sucABCD	755177	765049	forward	8	sdhC,sdhD,sdhA,sdhB,sucA,sucB,sucC,sucD	[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined]	Strong
+sdsN	1996906	1997097	forward	1	sdsN	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+sdsR	1923104	1923207	reverse	1	sdsR	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+secMA-mutT	107705	111433	forward	3	secM,secA,mutT	[PM|S|Polar mutation]	Strong
+selAB	3758017	3761249	reverse	2	selA,selB	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+selC	3836222	3836316	forward	1	selC	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+seqA-pgm	712987	715198	forward	2	seqA,pgm	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+serC-aroA	957653	960095	forward	2	serC,aroA	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+sfsA-dksA-gluQ	159186	161486	reverse	3	sfsA,dksA,gluQ	[LTED|S|Length of transcript experimentally determined]	Strong
+shoB	2700117	2700197	reverse	1	shoB	[LTED|S|Length of transcript experimentally determined]	Strong
+sibA	2153311	2153454	forward	1	sibA	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+sibB	2153646	2153781	forward	1	sibB	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+sibC	3056851	3056991	forward	1	sibC	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+sibD	3194721	3194865	reverse	1	sibD	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+sibE	3195097	3195240	reverse	1	sibE	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+slp-dctR	3653961	3655213	forward	2	slp,dctR	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+smf	3432436	3433560	reverse	1	smf	[IHBCE|W|Inferred by a human based on computational evidence],[LTED|S|Length of transcript experimentally determined]	Strong
+sodC	1724134	1724655	reverse	1	sodC	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+sokB	1492119	1492174	forward	1	sokB	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+sokC	16952	17006	forward	1	sokC	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+soxS	4277060	4277383	reverse	1	soxS	[LTED|S|Length of transcript experimentally determined]	Strong
+speAB	3082877	3085911	reverse	2	speA,speB	[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined]	Strong
+speF-potE	716946	720460	reverse	2	speF,potE	[LTED|S|Length of transcript experimentally determined]	Strong
+spy	1825140	1825625	reverse	1	spy	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+sraA	458728	458784	reverse	1	sraA	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+sraB	1146589	1146757	forward	1	sraB	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+sroG-ribB	3183813	3184718	reverse	2	sroG,ribB	[LTED|S|Length of transcript experimentally determined]	Strong
+sroH	4190327	4190487	reverse	1	sroH	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+sspAB	3376279	3377420	reverse	2	sspA,sspB	[LTED|S|Length of transcript experimentally determined]	Strong
+stpA	2798091	2798495	reverse	1	stpA	[LTED|S|Length of transcript experimentally determined]	Strong
+suhB	2663442	2664245	forward	1	suhB	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+symE	4579499	4579840	reverse	1	symE	[LTED|S|Length of transcript experimentally determined]	Strong
+symR	4579835	4579911	forward	1	symR	[LTED|S|Length of transcript experimentally determined],[AISGDTU|W|Automated inference that a single-gene directon is a transcription unit]	Strong
+tar-tap-cheRBYZ	1966393	1972691	reverse	6	tar,tap,cheR,cheB,cheY,cheZ	[PM|S|Polar mutation]	Strong
+tauABCD	385232	388646	forward	4	tauA,tauB,tauC,tauD	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+tcyP	1810934	1812325	forward	1	tcyP	[LTED|S|Length of transcript experimentally determined]	Strong
+tgt-yajC-secDF	426137	430476	forward	4	tgt,yajC,secD,secF	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+thrLABC	190	5020	forward	4	thrL,thrA,thrB,thrC	[BTEI|W|Boundaries of transcription experimentally identified]; [PM|S|Polar mutation]	Strong
+thrS-infC-rpmI-rplT-pheMST-ihfA	1795253	1802570	reverse	8	thrS,infC,rpmI,rplT,pheM,pheS,pheT,ihfA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]; [PAGTSBP|W|Products of adjacent genes in the same biological process]; [LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation]	Strong
+tisB	3853553	3853642	forward	1	tisB	[LTED|S|Length of transcript experimentally determined]	Strong
+tolB-pal-cpoB	777740	780389	forward	3	tolB,pal,cpoB	[PM|S|Polar mutation]	Strong
+tonB	1311089	1311808	forward	1	tonB	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+tpx	1388305	1388811	reverse	1	tpx	[LTED|S|Length of transcript experimentally determined]	Strong
+treR	4466299	4467246	reverse	1	treR	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+trmA	4162170	4163270	reverse	1	trmA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+ttdABT	3206463	3209487	forward	3	ttdA,ttdB,ttdT	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+ubiEJB	4018855	4021866	forward	3	ubiE,ubiJ,ubiB	[PM|S|Polar mutation]; [IC|W|Inferred by curator],[PM|S|Polar mutation]	Strong
+umpG-pcm	2868893	2870274	reverse	2	umpG,pcm	[PAGTSBP|W|Products of adjacent genes in the same biological process],[PM|S|Polar mutation]	Strong
+umuDC	1230767	1232454	forward	2	umuD,umuC	[LTED|S|Length of transcript experimentally determined]	Strong
+upp-uraA	2618871	2620872	reverse	2	upp,uraA	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+uspA	3640111	3640545	forward	1	uspA	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+uvrB	813526	815547	forward	1	uvrB	[LTED|S|Length of transcript experimentally determined]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+valVW	1746435	1746592	forward	2	valV,valW	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+xapAB	2522729	2524878	reverse	2	xapA,xapB	[ITCR|W|Inferred through co-regulation],[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+yadV-htrE	152829	156201	reverse	2	yadV,htrE	[PM|S|Polar mutation]	Strong
+ybfE	711605	711898	reverse	1	ybfE	[LTED|S|Length of transcript experimentally determined]	Strong
+ybgC-tolQRA	774752	777607	forward	4	ybgC,tolQ,tolR,tolA	[PM|S|Polar mutation]	Strong
+ybgIJKL-nei	742827	746726	forward	5	ybgI,ybgJ,ybgK,ybgL,nei	[LTED|S|Length of transcript experimentally determined]	Strong
+ybjC-nfsA-rimK-ybjN	890913	893433	forward	4	ybjC,nfsA,rimK,ybjN	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[IEP|W|Inferred from expression pattern]	Strong
+yceA	1116807	1117859	forward	1	yceA	[LTED|S|Length of transcript experimentally determined]	Strong
+ychQA-kdsA	1266924	1269019	forward	3	ychQ,ychA,kdsA	[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+ydgK-rsxABCDGE-nth	1705250	1712158	forward	8	ydgK,rsxA,rsxB,rsxC,rsxD,rsxG,rsxE,nth	[LTED|S|Length of transcript experimentally determined]	Strong
+ydhYVWXUT	1748747	1754477	reverse	6	ydhY,ydhV,ydhW,ydhX,ydhU,ydhT	[ICWHO|W|Inferred computationally without human oversight]; [LTED|S|Length of transcript experimentally determined],[PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+ydjA-selD-topB	1844999	1848676	reverse	3	ydjA,selD,topB	[LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+ydjM	1810211	1810801	forward	1	ydjM	[LTED|S|Length of transcript experimentally determined]	Strong
+yejABEF	2272364	2277889	forward	4	yejA,yejB,yejE,yejF	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+yfiR-dgcN-yfiB	2741875	2744107	forward	3	yfiR,dgcN,yfiB	[ICWHO|W|Inferred computationally without human oversight]; [PM|S|Polar mutation]	Strong
+ygiF-glnE	3196801	3200965	reverse	2	ygiF,glnE	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+yhaOM	3255341	3258010	reverse	2	yhaO,yhaM	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+yhdT-panF-prmA	3407375	3409951	forward	3	yhdT,panF,prmA	[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Strong
+yhfA	3485414	3485818	reverse	1	yhfA	[LTED|S|Length of transcript experimentally determined]	Strong
+yhjX	3710799	3712007	reverse	1	yhjX	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+yiaJ	3741684	3742532	reverse	1	yiaJ	[LTED|S|Length of transcript experimentally determined]	Strong
+yibN-grxC-secB-gpsA	3782642	3785015	reverse	4	yibN,grxC,secB,gpsA	[PM|S|Polar mutation]; [ICWHO|W|Inferred computationally without human oversight]; [ICWHO|W|Inferred computationally without human oversight],[PM|S|Polar mutation]	Strong
+yicR-rpmBG-mutM	3810343	3812559	reverse	4	yicR,rpmB,rpmG,mutM	[BTEI|W|Boundaries of transcription experimentally identified]; [LTED|S|Length of transcript experimentally determined],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+yjaB	4213680	4214123	reverse	1	yjaB	[LTED|S|Length of transcript experimentally determined]	Strong
+yjaZ	4189786	4190325	forward	1	yjaZ	[LTED|S|Length of transcript experimentally determined]	Strong
+yjjB-dnaTC-yjjA	4599695	4602097	reverse	4	yjjB,dnaT,dnaC,yjjA	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+yjjP	4602088	4602858	reverse	1	yjjP	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+yjjQ-bglJ	4603477	4604837	forward	2	yjjQ,bglJ	[LTED|S|Length of transcript experimentally determined]	Strong
+yjjW	4614680	4615543	reverse	1	yjjW	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+ykgMO	312374	312777	reverse	2	ykgM,ykgO	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+ykgR	313141	313242	reverse	1	ykgR	[LTED|S|Length of transcript experimentally determined]	Strong
+yneM	1622646	1622741	forward	1	yneM	[LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight],[BTEI|W|Boundaries of transcription experimentally identified]	Strong
+yqaE-kbp	2796337	2797028	reverse	2	yqaE,kbp	[ICWHO|W|Inferred computationally without human oversight]; [PM|S|Polar mutation]; [LTED|S|Length of transcript experimentally determined],[ICWHO|W|Inferred computationally without human oversight]	Strong
+yqhD-dkgA	3155355	3157450	forward	2	yqhD,dkgA	[ICWHO|W|Inferred computationally without human oversight]; [IDA|S|Inferred from direct assay],[PAGTSBP|W|Products of adjacent genes in the same biological process]	Strong
+yrbL	3348452	3349084	forward	1	yrbL	[LTED|S|Length of transcript experimentally determined]	Strong
+zinT	2041375	2042025	forward	1	zinT	[LTED|S|Length of transcript experimentally determined]	Strong
+carAB	29651	34038	forward	2	carA,carB	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]	Confirmed
+cydDC	927474	930962	reverse	2	cydD,cydC	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]	Confirmed
+dinB-yafNOP	250898	253161	forward	4	dinB,yafN,yafO,yafP	[ICWHO|W|Inferred computationally without human oversight]; [LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]	Confirmed
+fecABCDE	4510690	4516677	reverse	5	fecA,fecB,fecC,fecD,fecE	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[CV(LTED/PM)|C|cross validation(LTED/PM)],[IEP|W|Inferred from expression pattern],[PM|S|Polar mutation]	Confirmed
+gltBDF	3354725	3361940	forward	3	gltB,gltD,gltF	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]	Confirmed
+mutS	2857093	2859654	forward	1	mutS	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Confirmed
+pdxH-tyrS-pdxY	1715026	1718007	reverse	3	pdxH,tyrS,pdxY	[LTED|S|Length of transcript experimentally determined]; [BTEI|W|Boundaries of transcription experimentally identified]; [IC|W|Inferred by curator]; [LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]	Confirmed
+rnc-era-recO-pdxJ-acpS	2700618	2704063	reverse	5	rnc,era,recO,pdxJ,acpS	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]; [LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]	Confirmed
+treBC	4463054	4466180	reverse	2	treB,treC	[LTED|S|Length of transcript experimentally determined],[ITCR|W|Inferred through co-regulation],[CV(LTED/PM)|C|cross validation(LTED/PM)],[IEP|W|Inferred from expression pattern],[PM|S|Polar mutation]	Confirmed
+yiaKLMNO-lyxK-sgbHUE	3742733	3750781	forward	9	yiaK,yiaL,yiaM,yiaN,yiaO,lyxK,sgbH,sgbU,sgbE	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[BTEI|W|Boundaries of transcription experimentally identified],[PM|S|Polar mutation]	Confirmed
+yrdD-tsaC-aroE-yrdB	3429766	3431962	reverse	4	yrdD,tsaC,aroE,yrdB	[LTED|S|Length of transcript experimentally determined],[CV(LTED/PM)|C|cross validation(LTED/PM)],[PM|S|Polar mutation]	Confirmed

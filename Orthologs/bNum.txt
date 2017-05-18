@@ -1,0 +1,378 @@
+thrL	b0001
+dnaK	b0014
+tpke11	
+sokC	b4413
+rapA	b0059
+sroA	
+sgrS	b4577
+leuO	b0076
+mraZ	b0081
+yacG	b0101
+pdhR	b0113
+tp2	
+cdaR	b0162
+yaeI	b0164
+tff	b4414
+tsf	b0170
+rseP	b0176
+bamA	b0177
+rcsF	b0196
+C0067	
+rayT	b0228
+yafN	b0232
+yafO	b0233
+frsA	b0239
+crl	b0240
+ecpR	b0294
+insEF-1	
+insE-1	b0298
+insF-1	b0299
+betI	b0313
+prpR	b0330
+iraP	b0382
+rdgC	b0393
+phoB	b0399
+yajO	b0419
+yajR	b0427
+sraA	
+ppiD	b0441
+atl	b0454
+ffs	b0455
+acrR	b0464
+priC	b0467
+ybaK	b0481
+chiX	b4585
+cueR	b0487
+ybbN	b0492
+ompT	b0565
+nfrA	b0568
+nfrB	b0569
+sokE	
+entF	b0586
+entB	b0595
+rnk	b0610
+dpiB	b0619
+cspE	b0623
+rsfS	b0637
+sroC	
+ybeY	b0659
+nagC	b0676
+uof	b4637
+ybfF	b0686
+seqA	b0687
+nei	b0714
+ybgC	b0736
+cpoB	b0742
+rhlE	b0797
+dinG	b0799
+rybA	b4416
+ybjI	b0844
+rcdA	b0846
+rybB	b4417
+grxA	b0849
+hcp	b0873
+clpS	b0881
+lolA	b0891
+elyC	b0920
+uup	b0949
+rmf	b0953
+tusE	b0969
+torT	b0994
+cbpM	b0999
+rutR	b1013
+phoH	b1020
+csgE	b1039
+csgB	b1041
+csgA	b1042
+grxB	b1064
+sraB	b4418
+lpoB	b1105
+comR	b1111
+mfd	b1114
+C0293	
+iraM	b1160
+bluR	b1162
+bluF	b1163
+minD	b1175
+pliG	b1178
+hlyE	b1182
+C0299	
+fadR	b1187
+ycgR	b1194
+lolB	b1209
+rttR	b4425
+rssB	b1235
+hns	b1237
+trpL	b1265
+yciH	b1282
+pspA	b1304
+tyrR	b1323
+fnr	b1334
+mcaS	b4426
+fnrS	b4699
+C0343	
+dbpA	b1343
+ralR	b1348
+recT	b1349
+micC	b4427
+insI-2	b1404
+hokB	b4428
+sokB	b4429
+ydcI	b1422
+sutR	b1434
+C0362	
+ydeO	b1499
+mgrR	b4698
+ydfH	b1540
+cspB	b1557
+hokD	b1562
+dicA	b1570
+dicF	b1574
+dmsD	b1591
+mlc	b1594
+	
+rstB	b1609
+tus	b1610
+cnu	b1625
+rsxC	b1629
+slyB	b1641
+nemR	b1649
+rydB	b4430
+rprA	b4431
+infC	b1718
+yniC	b1727
+cedA	b1731
+spy3'	
+yeaK	b1787
+nimR	b1790
+sroD	
+htpX	b1829
+proQ	b1831
+ryeA	b4432
+sdsR	b4433
+exoX	b1844
+yebK	b1853
+cheY	b1882
+C0465	
+cheW	b1887
+cheA	b1888
+uspC	b1895
+isrB	b4434
+3'ETS<sup><i>leuZ</i></sup>	
+uvrY	b1914
+sdsN	
+dsrA	b1954
+vsr	b1960
+rseX	b4603
+yedW	b1969
+zinT	b1973
+mtfA	b1976
+nac	b1988
+cobS	b1992
+isrC	b4435
+cbeA	b2004
+cbtA	b2005
+sbcB	b2011
+alkA	b2068
+sibA	b4436
+sibB	b4437
+baeR	b2079
+cyaR	b4438
+rcnR	b2105
+rcnB	b2107
+yehU	b2126
+mlrA	b2127
+pbpG	b2134
+galS	b2151
+cirA	b2155
+	
+napD	b2207
+ada	b2213
+ftp	b2214
+micF	b4439
+rcsC	b2218
+yfaE	b2236
+lrhA	b2289
+yfcE	b2300
+fadL	b2344
+evgS	b2370
+tpke70	
+ptsH	b2415
+yfeW	b2430
+eutA	b2451
+ypfH	b2473
+bamC	b2477
+bepA	b2494
+bamB	b2512
+yfgM	b2513
+sroE	
+rodZ	b2516
+yfhM	b2520
+C0614	
+IS128	
+IS129	
+ryfA	b4440
+iscX	b2524
+hscB	b2527
+iscU	b2529
+glrR	b2554
+glrK	b2556
+glmY	b4441
+ryfB	b4607
+ohsC	b4608
+lepA	b2569
+rseA	b2572
+rpoE	b2573
+srmB	b2576
+ryfD	b4609
+bamD	b2595
+raiA	b2597
+pheL	b2598
+rpsP5'	
+zipA5'	
+ffh	b2610
+bamE	b2617
+ssrA	b2621
+kbp	b2665
+nrdH	b2673
+nrdI	b2674
+micA	b4442
+yqaB	b2690
+recX	b2698
+recA	b2699
+norR	b2709
+C0664	
+hypF	b2712
+ascG	b2714
+hypC	b2728
+hypE	b2730
+cas3	b2761
+sokX	b4701
+barA	b2786
+csrB	b4408
+syd	b2793
+ygdG	b2798
+gcvA	b2808
+gcvB	b4443
+omrA	b4444
+omrB	b4445
+galR	b2837
+prfB	b2891
+cptA	b2896
+ssrS	b2911
+sibC	b4446
+och5	
+yqgF	b2949
+yggT	b2952
+mutY	b2961
+C0719	
+yqhC	b3010
+mqsA	b3021
+mqsR	b3022
+yqiA	b3031
+sibD	b4447
+sibE	b4611
+ttdR	b3060
+sraF	b4448
+rnpB	b3123
+prlF	b3129
+agaR	b3131
+yhbO	b3153
+deaD	b3162
+psrO	b4449
+infB	b3168
+greA	b3181
+obgE	b3183
+hpf	b3203
+ptsN	b3204
+npr	b3206
+yrbL3'	
+arcZ	b4450
+	
+	
+nanR	b3226
+sspA	b3229
+rpsI3'	
+envR	b3264
+arfA	b4550
+zntR	b3292
+crp	b3357
+hslR	b3400
+hslO	b3401
+ryhB	b4451
+yhhY	b3441
+panZ	b3459
+rpoH	b3461
+ftsY	b3464
+tusA	b3470
+arrS	b4704
+gadW	b3515
+gadY	b4452
+gadX	b3516
+rdlD	b4454
+cspA	b3556
+yiaJ	b3574
+waaL	b3622
+recG	b3652
+uhpB	b3668
+uhpA	b3669
+ivbL	b3672
+istR-2	b4616
+istR-1	
+dnaA	b3702
+rnpA	b3704
+yidC	b3705
+yieH	b3715
+viaA	b3745
+hdfR	b4480
+ilvL	b3766
+trxA	b3781
+glmZ	b4456
+	
+esrE	b4707
+rfaH	b3842
+csrC	b4457
+glnA3'	
+	
+cpxA	b3911
+priA	b3935
+oxyS	b4458
+oxyR	b3961
+fabR	b3963
+btuB	b3966
+sroH	
+rsd	b3995
+nfi	b3998
+zraS	b4003
+zraR	b4004
+iclR	b4018
+lysC5'	
+soxR	b4063
+ryjA	b4459
+basR	b4113
+dcuR	b4124
+dcuS	b4125
+ghoS	b4128
+efp	b4147
+ampC	b4150
+hflX	b4173
+hflK	b4174
+hflC	b4175
+ytfE	b4209
+	
+tamA	b4220
+tamB	b4221
+mgtA5'	
+pyrL	b4246
+ryjB	b4624
+topAI	b4566
+fimA3'	
+fimC	b4316
+iraD	b4326
+kptA	b4331
+dnaC	b4361
+yjjQ	b4365
+prfC	b4375
+osmY	b4376
+ettA	b4391
+arcA	b4401
