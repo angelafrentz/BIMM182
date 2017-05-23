@@ -1,0 +1,23 @@
+import matplotlib.pyplot as plt
+
+#Accesses files that have the values for positive and negative controls
+posCtrl = open('posCtrlDist.txt', 'r')
+negCtrl = open('negCtrlDist.txt', 'r')
+posList = []
+negList = []
+
+#Adds positive and negative control values to a list
+for line in posCtrl:
+	posList.append(float(line.strip()))
+for line in negCtrl:
+	negList.append(float(line.strip()))
+
+#Assembles Plots
+fig, ax = plt.subplots(nrows = 1, ncols = 1)
+ax.hist( [posList, negList], 4000,  histtype = 'bar', normed = True, label = ['PoitiveControl','NegativeControl'])
+ax.set_title( 'Frequency of Operon Distances' )
+ax.set_xlim([-10,500])
+plt.xlabel('Distance')
+plt.ylabel('Probabiliy/Frequency')
+plt.legend()
+plt.show()
