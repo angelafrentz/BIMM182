@@ -14,7 +14,7 @@ for line in negCtrl:
 
 #Assembles Plots
 fig, ax = plt.subplots(nrows = 1, ncols = 1)
-ax.hist( [posList, negList], 4000,  histtype = 'bar', normed = True)
+ax.hist( [posList, negList], 4000,  histtype = 'bar', normed = True, label = ['PoitiveControl','NegativeControl'])
 ax.set_title( 'Frequency of Operon Distances' )
 ax.set_xlim([-10,500])
 plt.xlabel('Distance')

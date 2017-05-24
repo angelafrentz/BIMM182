@@ -81,10 +81,15 @@ while i < len(operonsTable)-1:
 			dist = minLeftCurr - maxRightPrev
 			negCtrlDist.append(dist)
 	i += 1
-
 print "\nThe number of positive controls analyzed is:", len(posCtrlDist)
 print "\nThe number of negatibe controls analyzed is:", len(negCtrlDist), '\n'
-
+#Probability determination
+posProb = [str(float(num)/len(posCtrlDist)) for num in posCtrlDist]
+negProb = [str(float(num)/len(negCtrlDist)) for num in posCtrlDist]
+negProbF = open( 'negativeCtrlProb.txt', 'w')
+posProbF = open('positiveCtrlProb.txt', 'w')
+negProbF.write('\n'.join(negProb) )
+posProbF.write('\n'.join(posProb) )
 #Output diostance values to another file because matplotlib is not supported in ieng6
 posCtrl = open('posCtrlDist.txt', 'w')
 negCtrl = open('negCtrlDist.txt','w')
@@ -92,3 +97,5 @@ posCtrlDist = [ str(num) for num in posCtrlDist ]
 negCtrlDist = [str(num) for num in negCtrlDist ]
 posCtrl.write('\n'.join(posCtrlDist))
 negCtrl.write('\n'.join(negCtrlDist))
+
+

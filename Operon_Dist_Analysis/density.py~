@@ -81,8 +81,10 @@ while i < len(operonsTable)-1:
 			dist = minLeftCurr - maxRightPrev
 			negCtrlDist.append(dist)
 	i += 1
+
 print "\nThe number of positive controls analyzed is:", len(posCtrlDist)
 print "\nThe number of negatibe controls analyzed is:", len(negCtrlDist), '\n'
+
 #Output diostance values to another file because matplotlib is not supported in ieng6
 posCtrl = open('posCtrlDist.txt', 'w')
 negCtrl = open('negCtrlDist.txt','w')
