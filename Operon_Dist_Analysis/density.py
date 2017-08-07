@@ -1,7 +1,7 @@
 import MySQLdb as sql
 import os
 
-db = sql.connect( host = 'bm185s-mysql.ucsd.edu', user = 'afrentze', passwd = 'Sql$pwd', db = 'afrentze_db')
+db = sql.connect( host = 'bm185s-mysql.ucsd.edu', user = 'afrentze', passwd = '', db = 'afrentze_db')
 
 #Extracts from the operons table
 curs_operons = db.cursor()
