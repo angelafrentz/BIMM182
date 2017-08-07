@@ -1,5 +1,5 @@
 import MySQLdb as sql
-db = sql.connect( host = 'bm185s-mysql.ucsd.edu', user = 'afrentze', passwd = 'Sql$pwd', db = 'afrentze_db')
+db = sql.connect( host = 'bm185s-mysql.ucsd.edu', user = 'afrentze', passwd = '', db = 'afrentze_db')
 tableList = ['Blast_EvsA', 'Blast_AvsE']
 outfile = open('orthologsTablei.txt','w')
 for i in range(0, len(tableList)):	
